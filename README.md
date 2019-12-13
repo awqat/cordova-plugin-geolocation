@@ -88,7 +88,7 @@ It is also possible to install via repo url directly ( unstable )
 
 ## Supported Platforms
 
-- Android
+- Android  X not working with Capacitor 
 - iOS
 - Windows
 
